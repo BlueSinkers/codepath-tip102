@@ -1,0 +1,10 @@
+
+"""
+Questions I would ask to help understand question:
+
+
+Plan in plain English (pseudocode):
+
+
+Begin problem:
+"""
